@@ -1,5 +1,5 @@
 # Dijkstra-algorithm
-Create your own graf and choose vertex from which the shortest paths to other vertices will be found. 
+Create your own graph and choose vertex from which the shortest paths to other vertices will be found. 
 
 Example of work
 
